@@ -76,7 +76,9 @@
                 android:text="@string/btn_registrarse_login"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button" />
+                android:id="@+id/button"
+                android:onClick="pantallaRegistro"
+                />
 
         </LinearLayout>
     </ScrollView>
