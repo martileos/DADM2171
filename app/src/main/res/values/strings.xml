@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UsuariosDADM</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_email">Dirección de correo no válida</string>
+    <string name="error_invalid_password">Contraseña demasiado corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">El campo es requerido</string>
+    <string name="permission_rationale">"Permitir el acceso a contactos es mejor."
+    </string>
+    <string name="btn_registrarse_login">REGISTRARSE</string>
+    <string name="correo_electronico_hint">Correo electrónico</string>
+    <string name="contrasena_hint">Contraseña</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="apellido_hint">Apellido</string>
+    <string name="registrar_usuario_boton">Registrar usuario</string>
+</resources>
